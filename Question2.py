@@ -1,3 +1,11 @@
+# 18-9-23
+# CSC461 – Assignment1 – Web Scraping
+# Ayesha Zahid
+# Fa21-BSE-003
+# Create a web scraper in Python to extract the ‘title’ and ‘rating’ for 5 of your
+# most favorite movies from the IMDB website.
+
+
 import requests
 from bs4 import BeautifulSoup
 
